@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Manrope:wght@800&display=swap");
 
 :root {
-  --Soft-red: hsl(10, 79%, 65%);
-  --Cyan: hsl(186, 34%, 60%);
-  --Dark-brown: hsl(25, 47%, 15%);
-  --Medium-brown: hsl(28, 10%, 53%);
-  --Cream: hsl(27, 66%, 92%);
-  --Very-pale-orange: hsl(33, 100%, 98%);
+  --Soft-red: #ec775f;
+  --Cyan: #76b5bc;
+  --Dark-brown: #382314;
+  --Medium-brown: #93867b;
+  --Cream: #f8e9dd;
+  --Very-pale-orange: #fffaf5;
 }
 
 * {
@@ -157,7 +157,7 @@ body {
 
 .attribution {
   position: absolute;
-  bottom: 5%;
+  bottom: 2%;
   right: 0;
   left: 0;
   margin-left: auto;
